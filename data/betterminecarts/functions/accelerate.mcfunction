@@ -9,4 +9,3 @@ execute if entity @s[type=minecraft:furnace_minecart] store result storage bette
 
 function betterminecarts:tp with storage betterminecarts:data
 
-#14w11a
