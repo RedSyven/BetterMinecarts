@@ -15,5 +15,5 @@ https://github.com/RedSyven/BetterMinecarts/assets/117309505/8326d71a-5733-4fac-
 
 Vanilla minecart acceleration is still retained. 
 
-Minecarts will only gain improved acceleration on flat, straight powered/normal rails, and if the supporting block is either a Redstone Block, Smooth Stone Block, or Smooth Stone Slab.
+Minecarts will only gain improved acceleration on flat, straight powered/normal rails, and if the supporting block is either a Redstone Block, Smooth Stone Block, Smooth Stone Slab or Quartz Block.
 These blocks can be configured under `BetterMinecarts/data/betterminecarts/tags/blocks/boost.json`
