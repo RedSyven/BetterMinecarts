@@ -1,4 +1,4 @@
-Re-adds similar functionality of minecarts in the Minecraft 1.8 14w11a snapshot:
+This 1.20.4 datapack Re-adds similar functionality of minecarts in the Minecraft 1.8 14w11a snapshot:
 
 1. Improved acceleration:
 
