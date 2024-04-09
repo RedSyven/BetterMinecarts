@@ -5,6 +5,3 @@ execute as @e[type=#betterminecarts:minecarts] at @s if block ~ ~ ~ minecraft:ra
 
 execute as @e[type=#betterminecarts:minecarts] at @s if block ~ ~ ~ minecraft:powered_rail[powered=true,shape=north_south] if block ~ ~-1 ~ #betterminecarts:boost run function betterminecarts:accelerate2
 execute as @e[type=#betterminecarts:minecarts] at @s if block ~ ~ ~ minecraft:powered_rail[powered=true,shape=east_west] if block ~ ~-1 ~ #betterminecarts:boost run function betterminecarts:accelerate2
-
-
-could this datapack be added to the realms? it makes minecarts faster, i want to build a railway that doesnt suck 🙏
